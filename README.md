@@ -7,9 +7,9 @@ Modeling techniques:
 
 V1 from `spin-max-fishpond.blend`:
 
-![./2014-09-28_22.18.07.jpg](top view)
-![./2014-09-28_22.18.29.jpg](view from angle)
-![./2014-09-28_22.18.53.jpg](holes in side)
+![./v1-top.jpg](top view)
+![./v1-angle.jpg](view from angle)
+![./v1-holes.jpg](holes in side)
 
 V1 problems and possible solutions:
 
